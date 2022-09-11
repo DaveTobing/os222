@@ -15,7 +15,7 @@ link tersebut menjelaskan mengenai fitur-fitur yang terdapat pada Operating Syst
 juga menyinggung mengenai awal mulanya terbentuknya sebuah operating system
 
 2. [Two](https://www.naukri.com/learning/articles/types-of-operating-systems/)<br>
-link tersebut memnjelaskan arti dari operating system dan tipe - tipe yang ada pada operating system.
+link tersebut menjelaskan arti dari operating system dan tipe - tipe yang ada pada operating system.
 link ini menarik karena di dalam link tersebut terdapat sebuah gambar atau diagram
 yang menjelaskan setiap tipe pada sebuah operating system
 

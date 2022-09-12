@@ -8,3 +8,15 @@ ZCZC W00 10 L03 GitHub Pages related
 ZCZC W00 50 L04 Weekly Assignments
 ZCZC W00 50 L05 QUIZ
 ZCZC W00 30 L06 Watching Youtube
+ZCZC W01 10 L07 Start doing OS weekly assignment 01
+ZCZC W01 100 L08 Install Virtual Debian Guest
+ZCZC W01 90 L09 Running virtual box 
+ZCZC W01 60 L10 Assistance about OS week 1
+ZCZC W01 60 L11 Reading material for week 1
+ZCZC W01 60 L12 Studying for OS quiz
+ZCZC W01 3 L13 Doing OS quiz
+ZCZC W01 120 L14 Dress up virtual box
+ZCZC W01 20 L15 Pull/Push from githubb
+ZCZC W01 20 L16 finishing up on OS weekly assigntment 01
+ZCZC W01 10 L17 Start doing OS weekly assignment 02
+ZCZC W01 30 L18 Generating a GnuPG KEY PAIR,Importing the Operating Systems public key and Export Public Key “mypubkey.txt” (os221)

@@ -17,6 +17,6 @@ ZCZC W01 60 L12 Studying for OS quiz
 ZCZC W01 3 L13 Doing OS quiz
 ZCZC W01 120 L14 Dress up virtual box
 ZCZC W01 20 L15 Pull/Push from githubb
-ZCZC W01 20 L16 finishing up on OS weekly assigntment 01
+ZCZC W01 20 L16 finishing up on OS weekly assignment 01
 ZCZC W01 10 L17 Start doing OS weekly assignment 02
 ZCZC W01 30 L18 Generating a GnuPG KEY PAIR,Importing the Operating Systems public key and Export Public Key “mypubkey.txt” (os221)

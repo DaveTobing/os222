@@ -22,6 +22,6 @@ membaca data pada disk,mengunduh sebuah aplikasi dari web ataupun sedang membuka
 secara bersamaan
 
 3. [Four](https://www.techopedia.com/definition/24774/operating-system-security-os-security#:~:text=OS%20security%20refers%20to%20specified,if%20OS%20security%20is%20compromised.)<br>
-link tersebut kegunaan security pada sebuah operating system
+link tersebut mengandung kegunaan security pada sebuah operating system
 
 

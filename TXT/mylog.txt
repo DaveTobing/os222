@@ -20,9 +20,16 @@ ZCZC W01 20 L15 Pull/Push from githubb
 ZCZC W01 20 L16 finishing up on OS weekly assignment 01
 ZCZC W01 10 L17 Start doing OS weekly assignment 02
 ZCZC W01 30 L18 Generating a GnuPG KEY PAIR,Importing the Operating Systems public key and Export Public Key “mypubkey.txt” (os221)
-ZCZC W02 100 L19 Joinning OS class
+ZCZC W02 200 L19 Joinning OS class
 ZCZC W02 50 L20 script downloading
 ZCZC W02 30 L21 Watching Youtube
 ZCZC W02 100 L22 doing demos and review links
 ZCZC W02 50 L23 Zoom meetings 
 ZCZC W02 50 L24 Finishing up on OS weekly assignment 02
+ZCZC W03 10 L25 Start doing OS weekly assignment 03
+ZCZC W03 40 L26 creating an extra virtual disk
+ZCZC W03 200 L27 Joining OS Class
+ZCZC W03 3 L28 doin OS Quiz 
+ZCZC W03 50 L29 Zoom meetings
+ZCZC W03 30 L30 review links
+ZCZC W03 15 L31 finishing up on OS weekly assignment 03

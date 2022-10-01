@@ -31,5 +31,12 @@ ZCZC W03 40 L26 creating an extra virtual disk
 ZCZC W03 200 L27 Joining OS Class
 ZCZC W03 3 L28 doin OS Quiz 
 ZCZC W03 50 L29 Zoom meetings
-ZCZC W03 30 L30 review links
+ZCZC W03 30 L30 reviewing links
 ZCZC W03 15 L31 finishing up on OS weekly assignment 03
+ZCZC W04 10 L32 Start doing OS weekly assignment 04
+ZCZC W04 10 L33 Compiling TLPI
+ZCZC W04 200 L34 Joining OS Class
+ZCZC W04 8 L35 doing OS Quiz
+ZCZC W04 50 L36 Zoom meetings
+ZCZC W04 30 L37 reviewing links
+ZCZC W04 30 L38 finishing up on OS weekly assignment 04

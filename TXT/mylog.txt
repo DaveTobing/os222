@@ -40,3 +40,9 @@ ZCZC W04 8 L35 doing OS Quiz
 ZCZC W04 50 L36 Zoom meetings
 ZCZC W04 30 L37 reviewing links
 ZCZC W04 30 L38 finishing up on OS weekly assignment 04
+ZCZC W05 10 L39 Start doing OS weekly assignment 05
+ZCZC W05 30 L40 testing how low can debian run at
+ZCZC W05 200 L41 Joining OS Class
+ZCZC W05 8 L42 doing OS Quiz
+ZCZC W05 30 L43 reviewing links
+ZCZC W05 30 L44 finishing up on OS weekly assignment 05

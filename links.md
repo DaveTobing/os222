@@ -40,6 +40,11 @@ then how to work virtual memory on a computer.
 The link explain how to initialize and declare a pointer and 
 explains different types of pointers
 
-7. [Six](https://www.geeksforgeeks.org/memory-management-in-operating-system/.)<br>
+7. [Seven](https://www.geeksforgeeks.org/memory-management-in-operating-system/.)<br>
 Explains The primary motive of a computer system. 
 and how these programs, along with the information can be access
+
+# WEEK 5
+
+8. [Eight](https://opensource.com/article/18/8/what-how-makefile)<br>
+The link explain the use of Makefile and how does it work

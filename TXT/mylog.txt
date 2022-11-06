@@ -46,3 +46,11 @@ ZCZC W05 200 L41 Joining OS Class
 ZCZC W05 8 L42 doing OS Quiz
 ZCZC W05 30 L43 reviewing links
 ZCZC W05 30 L44 finishing up on OS weekly assignment 05
+ZCZC W06 10 L45 Start doing OS weekly assignment 06
+ZCZC W06 20 L46 updating debian
+ZCZC W06 200 L47 Joining OS Class
+ZCZC W06 8 L48 doing OS Quiz
+ZCZC W06 50 L49 doing OS Pop Quiz
+ZCZC W06 30 L50 reviewing links
+ZCZC W06 30 L51 finishing up on OS weekly assignment 06
+

@@ -56,3 +56,7 @@ The link explaines what is fork in C and providing examples such as codes and di
 
 2. [Process](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 The link explains what is process in an Operating System
+
+# WEEK7
+1. [Deadlocks](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+The link explains what is deadlock in an Operating System

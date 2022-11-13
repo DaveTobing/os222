@@ -50,7 +50,13 @@ ZCZC W06 10 L45 Start doing OS weekly assignment 06
 ZCZC W06 20 L46 updating debian
 ZCZC W06 200 L47 Joining OS Class
 ZCZC W06 8 L48 doing OS Quiz
-ZCZC W06 50 L49 doing OS Pop Quiz
+ZCZC W06 5 L49 doing OS Pop Quiz
 ZCZC W06 30 L50 reviewing links
 ZCZC W06 30 L51 finishing up on OS weekly assignment 06
-
+ZCZC W07 10 L52 Start doing OS weekly assignment 07
+ZCZC W07 20 L53 copy file WEEK07-MYSHARE.bin to os1.cs.ui.ac.id  
+ZCZC W07 200 L54 Joining OS Class
+ZCZC W07 8 L55 doing OS Quiz
+ZCZC W07 5 L56 doing OS Pop Quiz
+ZCZC W07 30 L57 reviewing links
+ZCZC W07 30 L58 finishing up on OS weekly assignment 07

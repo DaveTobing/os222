@@ -60,3 +60,9 @@ ZCZC W07 8 L55 doing OS Quiz
 ZCZC W07 5 L56 doing OS Pop Quiz
 ZCZC W07 30 L57 reviewing links
 ZCZC W07 30 L58 finishing up on OS weekly assignment 07
+ZCZC W08 500 L52 Start doing OS weekly assignment 08
+ZCZC W08 200 L53 Joining OS Class
+ZCZC W08 8 L54 doing OS Quiz
+ZCZC W08 5 L55 doing OS Pop Quiz
+ZCZC W08 30 L56 reviewing links
+ZCZC W08 30 L57 finishing up on OS weekly assignment 08

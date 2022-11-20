@@ -60,3 +60,7 @@ The link explains what is process in an Operating System
 # WEEK7
 1. [Deadlocks](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
 The link explains what is deadlock in an Operating System
+
+# WEEK8
+1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=What%20is%20CPU%20Scheduling%3F,the%20ready%20queue%20for%20execution.)<br>
+The link explain what is CPU scheduling

@@ -64,3 +64,7 @@ The link explains what is deadlock in an Operating System
 # WEEK8
 1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=What%20is%20CPU%20Scheduling%3F,the%20ready%20queue%20for%20execution.)<br>
 The link explain what is CPU scheduling
+
+# WEEK9 
+1. [Chroot](https://www.howtogeek.com/devops/what-is-chroot-on-linux-and-how-do-you-use-it/)</br>
+The link explain what is Chroot on linux

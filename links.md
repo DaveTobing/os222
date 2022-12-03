@@ -59,12 +59,17 @@ The link explains what is process in an Operating System
 
 # WEEK7
 1. [Deadlocks](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
-The link explains what is deadlock in an Operating System
+The link explains what is deadlocks in an Operating System
 
 # WEEK8
 1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=What%20is%20CPU%20Scheduling%3F,the%20ready%20queue%20for%20execution.)<br>
-The link explain what is CPU scheduling
+The link explains about CPU scheduling
 
 # WEEK9 
 1. [Chroot](https://www.howtogeek.com/devops/what-is-chroot-on-linux-and-how-do-you-use-it/)</br>
-The link explain what is Chroot on linux
+The link explains about Chroot in linux
+
+# WEEK10
+1. [Directory Structure](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)</br>
+The link explains directory structure on Operating System
+
